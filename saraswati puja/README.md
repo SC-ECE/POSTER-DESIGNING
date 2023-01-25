@@ -1,13 +1,17 @@
-# Republic Day
-Republic Day is a public holiday in India where the country marks and celebrates the date on which the Constitution of India came into effect on 26 January 1950. This replaced the Government of India Act 1935 as the governing document of India, thus turning the nation into a republic separate from British Raj.
+# Saraswati Puja 2023
+Vasant Panchami, also called Saraswati Puja in honor of the Hindu goddess Saraswati, is a festival that marks the preparation for the arrival of spring. The festival is celebrated in Indian religions in different ways depending on the region.
 
 ## Author
-- [Niladri Adak](https://github.com/Niladri2003)
+
+
+- [Arnab Pal](https://github.com/arnabpal16)
 
 ## Poster
 
-![Republic Day of India](https://user-images.githubusercontent.com/93518661/214571641-0501eaaa-61cf-491b-8792-af643aa7fa09.png)
+![saraswati god](https://user-images.githubusercontent.com/109953155/214651125-ddd8218b-da72-4860-8577-c2553bcdf31d.png)
+
+
 
 ## Synapse 1.0 Ticket
 
-![Niladri](https://user-images.githubusercontent.com/93518661/214571614-2e6e78f8-2648-4748-b801-6751d0a6ccda.png)
+![Arnab](https://user-images.githubusercontent.com/109953155/214651177-1c96284a-71eb-4341-9b88-e1e1f4c1d5a9.png)
