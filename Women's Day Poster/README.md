@@ -1,13 +1,13 @@
 ## Women's Day Poster
+Designed by Debaditya Som
 
-## Author
+## Designer
 
-[Soumyajit](https://github.com/Soumyajit2825)
+[Debaditya Som](https://github.com/Debaditya-Som)
 
-## Image
-
-![Image](/Women's%20Day%20Poster/Image/8th%20March.png)
+## Poster 
+Women's Day Poster
 
 ## Ticket 
 
-![Ticket](/Women's%20Day%20Poster/Image/Soumyajit.png)
+![Debaditya](https://user-images.githubusercontent.com/121785700/212010055-1ff06677-008d-455a-bcf8-42aea176748a.png)
