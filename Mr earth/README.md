@@ -1,13 +1,14 @@
-# Republic Day
-Republic Day is a public holiday in India where the country marks and celebrates the date on which the Constitution of India came into effect on 26 January 1950. This replaced the Government of India Act 1935 as the governing document of India, thus turning the nation into a republic separate from British Raj.
+# Mr Earth
+
 
 ## Author
 - [Arnab Pal](https://github.com/arnabpal16)
 
 ## Poster
+![Mr  Earth](https://user-images.githubusercontent.com/109953155/215186771-bbedf93c-3dff-40fb-b56d-90eec233e5fc.png)
 
 
-![26th](https://user-images.githubusercontent.com/109953155/214648375-911b8c08-5f5a-48ce-b8b1-1b51892c078c.png)
+
 
 ## Synapse 1.0 Ticket
 
