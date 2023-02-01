@@ -1,13 +1,15 @@
-#Labour Day
-we celebrate labour day on 1st may!
+# CHRISTMAS DAY
 
 ## Author
+
+
 - [Arnab Pal](https://github.com/arnabpal16)
 
 ## Poster
 
+
+
+
 ## Synapse 1.0 Ticket
 
-![Arnab](https://user-images.githubusercontent.com/109953155/214648453-07a3d7fd-4971-4921-93a8-860e3f9a63c4.png)
-
-
+![Arnab](https://user-images.githubusercontent.com/109953155/214651177-1c96284a-71eb-4341-9b88-e1e1f4c1d5a9.png)
