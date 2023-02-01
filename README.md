@@ -1,4 +1,4 @@
-# Raksha bandhan 2023
+# Happy Diwali 2023
 
 
 ## Author
@@ -7,9 +7,6 @@
 - [Arnab Pal](https://github.com/arnabpal16)
 
 ## Poster
-
-
-
 
 
 ## Synapse 1.0 Ticket
